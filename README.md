@@ -2,6 +2,8 @@
 
 This program generate hashes from random salts.
 
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F7%2F7%2F8%2F86920.jpg&f=1&nofb=1" alt="A very beautiful pikachu" />
+
 ## How to install
 
 Install this program using python 3 and pip:
