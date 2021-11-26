@@ -8,7 +8,7 @@ Install this program using python 3 and pip:
 
 ```pip install .```
 
-In the future, this program will be available for linux and macOS using the mos common package manager.
+In the future, this program will be available for linux and macOS using the most common package managers.
 
 ## How to use
 
