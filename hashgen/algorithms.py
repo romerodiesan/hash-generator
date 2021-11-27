@@ -1,7 +1,7 @@
 import bcrypt
 import hashlib
 
-from pg.utilities import string_generator_and_encoding
+from hashgen.utilities import string_generator_and_encoding
 
 class Algorithms:
   def __init__(self, algorithm, difficulty) -> None:

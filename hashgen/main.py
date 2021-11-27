@@ -1,5 +1,5 @@
 import click
-from pg.algorithms import Algorithms
+from hashgen.algorithms import Algorithms
 
 
 data = (
